@@ -1,0 +1,19 @@
+{
+  "name": "duolingo-filososilva",
+  "version": "1.0.0",
+  "description": "api do duo via proxy - CROS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williroger/duolingo-filososilva.git"
+  },
+  "author": "williroger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williroger/duolingo-filososilva/issues"
+  },
+  "homepage": "https://github.com/williroger/duolingo-filososilva#readme"
+}
